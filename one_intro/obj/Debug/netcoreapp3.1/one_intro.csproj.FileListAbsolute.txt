@@ -1,0 +1,13 @@
+C:\xampp\htdocs\examplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.exe
+C:\xampp\htdocs\examplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.deps.json
+C:\xampp\htdocs\examplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.runtimeconfig.json
+C:\xampp\htdocs\examplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.runtimeconfig.dev.json
+C:\xampp\htdocs\examplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.dll
+C:\xampp\htdocs\examplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.pdb
+C:\xampp\htdocs\examplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.csprojAssemblyReference.cache
+C:\xampp\htdocs\examplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.AssemblyInfoInputs.cache
+C:\xampp\htdocs\examplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.AssemblyInfo.cs
+C:\xampp\htdocs\examplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\examplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.dll
+C:\xampp\htdocs\examplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.pdb
+C:\xampp\htdocs\examplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.genruntimeconfig.cache
