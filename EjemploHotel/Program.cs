@@ -8,13 +8,29 @@ namespace EjemploHotel
         {
         
             Console.WriteLine("Hotel WCG");
-           int numuno = int.Parse(Console.ReadLine());
+           
 
            Console.WriteLine("Cantidad de Huespedes");
-           int numuno = int.Parse(Console.ReadLine());
+           int huespedes = int.Parse(Console.ReadLine());
           
            Console.WriteLine("nombre habitacion");
            string nom_hab = Console.ReadLine();
+
+           Console.WriteLine("Dias de estadia");
+           int can_dias = int.Parse(Console.ReadLine());
+
+           //instancia
+
+           var hotelUno = new GestionHotel(){
+
+               habitacion = nom_hab,
+               huesped = huespedes,
+               dias = can_dias
+           };
+    hotelUno.cuentaCobro();
+
         }
     }
 }
+    
+

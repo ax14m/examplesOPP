@@ -7,8 +7,28 @@ namespace EjemploHotel{
         //propiedades
 
         public string habitacion {get; set; }
-          public string huesped {get; set; }
-            public string dias {get; set; }
+          public int huesped {get; set; }
+
+          int Dias;
+          //public in dias  get ; set
+        public int dias {
+            get{ return Dias; }
+            set{
+                if(value >= 1)
+                {
+                    Dias = value;
+                }else
+                {
+                    Console.WriteLine("cantidad dias debe ser minimo 1");
+                }
+
+
+            }
+
+
+        }
+
+        
 
             //metodos
 
@@ -38,22 +58,21 @@ namespace EjemploHotel{
                     
              return cobro;  
 
+            }
+
                 public void cuentaCobro(){
                     int IVA = 19;
                     int precioConiva = 0;
                     int precioSiniva = 0;
-                     precioSiniva = valorEstadia(huesp, dias);
+                     precioSiniva = valorEstadia(huesped, dias);
 
                      precioConiva = ((precioSiniva * IVA) / 100) + precioSiniva;
 
-                     Console.WriteLine(precioConiva);
+                     Console.WriteLine(precioConiva); 
 
                 }
 
             }
-
-
     }
 
 
-}

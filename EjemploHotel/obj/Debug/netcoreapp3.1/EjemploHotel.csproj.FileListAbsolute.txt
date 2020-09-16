@@ -1,0 +1,13 @@
+C:\xampp\htdocs\examplesOOP\EjemploHotel\bin\Debug\netcoreapp3.1\EjemploHotel.exe
+C:\xampp\htdocs\examplesOOP\EjemploHotel\bin\Debug\netcoreapp3.1\EjemploHotel.deps.json
+C:\xampp\htdocs\examplesOOP\EjemploHotel\bin\Debug\netcoreapp3.1\EjemploHotel.runtimeconfig.json
+C:\xampp\htdocs\examplesOOP\EjemploHotel\bin\Debug\netcoreapp3.1\EjemploHotel.runtimeconfig.dev.json
+C:\xampp\htdocs\examplesOOP\EjemploHotel\bin\Debug\netcoreapp3.1\EjemploHotel.dll
+C:\xampp\htdocs\examplesOOP\EjemploHotel\bin\Debug\netcoreapp3.1\EjemploHotel.pdb
+C:\xampp\htdocs\examplesOOP\EjemploHotel\obj\Debug\netcoreapp3.1\EjemploHotel.csprojAssemblyReference.cache
+C:\xampp\htdocs\examplesOOP\EjemploHotel\obj\Debug\netcoreapp3.1\EjemploHotel.AssemblyInfoInputs.cache
+C:\xampp\htdocs\examplesOOP\EjemploHotel\obj\Debug\netcoreapp3.1\EjemploHotel.AssemblyInfo.cs
+C:\xampp\htdocs\examplesOOP\EjemploHotel\obj\Debug\netcoreapp3.1\EjemploHotel.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\examplesOOP\EjemploHotel\obj\Debug\netcoreapp3.1\EjemploHotel.dll
+C:\xampp\htdocs\examplesOOP\EjemploHotel\obj\Debug\netcoreapp3.1\EjemploHotel.pdb
+C:\xampp\htdocs\examplesOOP\EjemploHotel\obj\Debug\netcoreapp3.1\EjemploHotel.genruntimeconfig.cache
